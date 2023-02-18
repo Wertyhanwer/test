@@ -14,3 +14,6 @@ for i_a in range(1,151):
                     if i_a**s + i_b**s + i_c**s + i_d**s == i_e**s:
                         print(i_a + i_b + i_c + i_d + i_e)
                         stop = True
+####
+###
+##sdfsdfsdfsfsd
